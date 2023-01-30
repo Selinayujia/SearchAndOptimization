@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[17]:
-
+#Author: Yujia(Selina) Zhang, A14617075
 
 # Q2 1
 import numpy as np
